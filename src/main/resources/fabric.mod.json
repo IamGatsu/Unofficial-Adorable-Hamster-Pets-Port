@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "id": "adorablehamsterpets",
+  "version": "${version}",
+  "name": "Adorable Hamster Pets",
+  "description": "\n\nUnofficial port of the original Adorable Hamster Pets mod by The Scarlet Fox (based on original version 3.7.0). Not affiliated with or supported by the original developer – for support, join https://discord.gg/gydHQSHsf",
+  "authors": [
+    "ImGatsu",
+	"Original Mod Autho: The Scarlet Fox"
+  ],
+  "contact": {
+    "homepage": "https://discord.gg/gydHQSHsf",
+    "sources": "https://github.com/IamGatsu/Unofficial-Adorable-Hamster-Pets-Port",
+    "issues": "https://github.com/IamGatsu/Unofficial-Adorable-Hamster-Pets-Port"
+  },
+  "license": "All Rights Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.dawson.adorablehamsterpets.fabric.AdorableHamsterPetsFabric"
+    ],
+    "client": [
+      "net.dawson.adorablehamsterpets.fabric.client.AdorableHamsterPetsFabricClient"
+    ],
+    "fabric-datagen": [
+      "net.dawson.adorablehamsterpets.fabric.datagen.AdorableHamsterPetsDataGenerator"
+    ],
+    "jade": [
+      "net.dawson.adorablehamsterpets.integration.jade.AHPJadePlugin"
+    ]
+  },
+  "mixins": [
+    "adorablehamsterpets.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*",
+    "architectury": ">=21.1.0",
+    "geckolib": ">=5.5.0",
+    "fzzy_config": ">=0.7.7",
+    "patchouli": "*"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "jade": "*",
+    "iris": "*"
+  },
+  "custom": {
+    "fzzy_config": [
+      "adorablehamsterpets:main"
+    ]
+  }
+}

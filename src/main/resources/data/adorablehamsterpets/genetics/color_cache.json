@@ -1,0 +1,142 @@
+{
+ "assets/adorablehamsterpets/textures/entity/hamster/armor/acorn_armor_base.png": [
+  0.6290872422950966,
+  0.2853556639152661,
+  0.44070961718020474
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/armor/acorn_armor_diamond.png": [
+  -0.7131888203872293,
+  0.08655398728360754,
+  0.8317390507604911
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/armor/acorn_armor_gold.png": [
+  0.5368128991584918,
+  0.48097212306804804,
+  0.8842770753161068
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/armor/acorn_armor_iron.png": [
+  0.0,
+  0.0,
+  0.7865493861095845
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/armor/acorn_armor_netherite.png": [
+  0.14185046181059965,
+  -0.09018490680522945,
+  0.26142569177203606
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/armor/acorn_hat.png": [
+  0.426611322901928,
+  0.15776431710837793,
+  0.23813025210084052
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/easter_egg/hamtaro.png": [
+  0.22648561094134353,
+  0.13630559379664903,
+  0.9508556603302896
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/easter_egg/sweet_potato.png": [
+  0.5199572455920489,
+  0.26892191918603375,
+  0.6959237639075975
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/fur_base_pattern/fur_pattern.png": [
+  0.0,
+  0.0,
+  0.45901312178815606
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/fur_base_pattern/performance_mode.png": [
+  0.0,
+  0.0,
+  0.7019607843136942
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/beige.png": [
+  0.30172420009710815,
+  0.1613422484541752,
+  0.5571321658434395
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/blue_fawn.png": [
+  -0.002073744776386234,
+  -0.037801795688375765,
+  0.6086713565833451
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/cheesecake_mocha.png": [
+  0.37897842979954777,
+  0.23596972450657536,
+  0.6553011026293459
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/cinnamon.png": [
+  0.6620689229155667,
+  0.41999719443130523,
+  0.7317567230454519
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/classic_mocha.png": [
+  0.2129693183894443,
+  0.1157642736641588,
+  0.7127475926757487
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/coconut.png": [
+  0.3167826625710756,
+  0.1939375293948307,
+  0.9709125380432075
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/diluted_blue.png": [
+  -0.1891590995185424,
+  -0.11348967220704258,
+  0.8811654941874953
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/homo_silver_gray.png": [
+  -0.0483668898718297,
+  -0.004420892927557181,
+  0.8540038916329882
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/opal.png": [
+  -0.015204211596905859,
+  -0.02876150677583896,
+  0.6203362770044402
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/pearl_rose.png": [
+  0.09874479296437134,
+  -0.06050669090335654,
+  0.9370852666766404
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/pearl_white.png": [
+  0.04060804016783626,
+  0.006018997889519348,
+  0.8844085216783878
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/rust.png": [
+  0.5667277613946765,
+  0.15094123845084,
+  0.763488499725586
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/sable.png": [
+  0.2800575852596218,
+  0.17074291757777943,
+  0.8960335279149807
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/silver.png": [
+  -0.1318906257883766,
+  -0.06161134446504402,
+  0.6532255650351769
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/silver_gray_dark.png": [
+  0.012988111076793573,
+  -0.0024890130096244753,
+  0.6019757521329144
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/silver_gray_het.png": [
+  0.0031369815979717906,
+  -0.0046346446045843,
+  0.633178665868383
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/smoke_pearl.png": [
+  0.14187550714144084,
+  0.11802887133471134,
+  0.7589682183305886
+ ],
+ "assets/adorablehamsterpets/textures/entity/hamster/jimcerberus/tortoise_shell.png": [
+  0.2644041478301445,
+  0.14814051554819074,
+  0.6287481913885147
+ ]
+}

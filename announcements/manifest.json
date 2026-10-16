@@ -1,0 +1,104 @@
+{
+  "latest_version": "3.7.0",
+  "messages": [
+    {
+      "id": "update-3.7.0",
+      "title": "The Fever Pitch Update (v3.7.0)",
+      "kind": "update_available",
+      "semver": "3.7.0",
+      "markdown": "messages/v3.7.0-update.md",
+      "published": "2026-09-08T12:00:00Z",
+      "mandatory": true
+    },
+    {
+      "id": "update-3.6.1",
+      "title": "New Update: v3.6.0!",
+      "kind": "update_available",
+      "semver": "3.6.1",
+      "markdown": "messages/v3.6.1-update.md",
+      "published": "2026-07-01T01:45:00Z",
+      "mandatory": true
+    },
+    {
+      "id": "whats-new-3.6.1",
+      "title": "What's New in v3.6.1?",
+      "kind": "patch_notes",
+      "semver": "3.6.1",
+      "markdown": "messages/v3.6.1-whats-new.md",
+      "published": "2026-07-01T01:45:00Z",
+      "mandatory": true
+    },
+    {
+      "id": "update-3.6.0",
+      "title": "New Update: v3.6.0!",
+      "kind": "update_available",
+      "semver": "3.6.0",
+      "published": "2026-04-19T12:00:00Z",
+      "markdown": "messages/v3.6.0-update.md",
+      "mandatory": true
+    },
+    {
+      "id": "whats-new-3.6.0",
+      "title": "What's New in v3.6.0?",
+      "kind": "patch_notes",
+      "semver": "3.6.0",
+      "published": "2026-04-19T12:00:00Z",
+      "markdown": "messages/v3.6.0-whats-new.md",
+      "mandatory": true
+    },
+    {
+      "id": "update-3.5.0",
+      "title": "New Update: v3.5.0!",
+      "kind": "update_available",
+      "semver": "3.5.0",
+      "published": "2025-12-19T12:00:00Z",
+      "markdown": "messages/v3.5.0-update-available.md",
+      "mandatory": true
+    },
+    {
+      "id": "whats-new-3.5.0",
+      "title": "What's New in v3.5.0?",
+      "kind": "patch_notes",
+      "semver": "3.5.0",
+      "published": "2025-12-19T12:05:00Z",
+      "markdown": "messages/v3.5.0-whats-new.md",
+      "mandatory": true
+    },
+    {
+      "id": "curseforge_moty_vote",
+      "title": "WE WON MOD OF THE YEAR!",
+      "kind": "announcement",
+      "semver": "3.4.0",
+      "published": "2025-12-15T12:00:00Z",
+      "markdown": "messages/curseforge_moty_vote.md",
+      "mandatory": false
+    },
+    {
+      "id": "update-3.4.0",
+      "title": "New Update: v3.4.0!",
+      "kind": "update_available",
+      "semver": "3.4.0",
+      "published": "2025-11-26T12:00:00Z",
+      "markdown": "messages/v3.4.0-update.md",
+      "mandatory": true
+    },
+    {
+      "id": "whats-new-3.4.0",
+      "title": "What's New in v3.4.0?",
+      "kind": "patch_notes",
+      "semver": "3.4.0",
+      "published": "2025-11-26T12:00:00Z",
+      "markdown": "messages/v3.4.0-whats-new.md",
+      "mandatory": true
+    },
+    {
+      "id": "whats-new-3.3.0",
+      "title": "What's New in v3.3.0?",
+      "kind": "patch_notes",
+      "semver": "3.3.0",
+      "published": "2025-10-04T12:00:00Z",
+      "markdown": "messages/v3.3.0-whats-new.md",
+      "mandatory": true
+    }
+  ]
+}

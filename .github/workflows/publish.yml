@@ -1,0 +1,16 @@
+name: Legacy Publisher (Quarantined)
+
+# Production publishing moved behind the reviewed release-coordinator design.
+# Keep this inert tombstone on maintained branches so tag pushes and manual
+# workflow dispatches cannot invoke the former credentialed publisher.
+
+on: []
+
+permissions: {}
+
+jobs:
+  quarantined:
+    if: ${{ false }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Legacy publishing is quarantined."

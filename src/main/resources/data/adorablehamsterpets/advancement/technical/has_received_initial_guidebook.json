@@ -1,0 +1,14 @@
+{
+  "criteria": {
+    "received": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["adorablehamsterpets:hamster_guide_book"]
+          }
+        ]
+      }
+    }
+  }
+}
